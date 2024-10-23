@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: New Material 1
-  m_Shader: {fileID: 4800000, guid: 9fd9c18af778e4242afee0f0402909b1, type: 3}
+  m_Shader: {fileID: 4800000, guid: a058644c702a3dd4e9469025da2cb8bb, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -85,4 +85,7 @@ Material:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _myColor: {r: 0.9056604, g: 0.16660735, b: 0.16660735, a: 1}
+    - _myEmission: {r: 0.6320754, g: 0.30709326, b: 0.30709326, a: 1}
+    - _myNormal: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
